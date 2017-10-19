@@ -27,5 +27,5 @@
       "Dizda\\OnesignalApiBundle\\": "src"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "stable"
 }
